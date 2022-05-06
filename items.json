@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "title": "DANISH ENDURANCE Calze Escursionismo e Trekking in Lana Merino per Uomo, Donna e Bambino.",
+        "price": 32.00,
+        "description": "Calzini Traspiranti, Anti-Vescica, Imbottiti, Anti-Attrito, Calze Da Lavoro, Da Passeggio, Montagna, 3 Paia",
+        "category": "Abbigliamento",
+        "image": "https://m.media-amazon.com/images/I/A1Icw4fcPXL._AC_UX385_.jpg",
+        "count": 90
+    },
+    {
+        "id": 2,
+        "title": "Brandit Giacca Uomo.",
+        "price": 62.90,
+        "description": "Riproduzione classica della leggendaria giacca delle forze armate americane.",
+        "category": "Abbigliamento",
+        "image": "https://m.media-amazon.com/images/I/81roCJquJWL._AC_SX679._SX._UX._SY._UY_.jpg",
+        "count": 25
+    },
+    {
+        "id": 3,
+        "title": "Ferrari SF Herren Steppjacke Giacchetto Imbottito Uomo.",
+        "price": 125.99,
+        "description": "Con cappuccio. Fodera in colori a contrasto. 100% Poliammide. Chiusura: Cerniera. Lavabile in lavatrice. Giacca trapuntata. Logo classico di cavallo sulla parte anteriore.",
+        "category": "Abbigliamento",
+        "image": "https://m.media-amazon.com/images/I/51Dqkj0xuLL._AC_UX679_.jpg",
+        "count": 5
+    },
+    {
+        "id": 4,
+        "title": "URBAN CLASSICS Leggings Sportivi Donna.",
+        "price": 11.90,
+        "description": "Elasticizzati per Allenamento Ginnastica, Yoga, Corsa, Disponibile Anche per Grandi Taglie, Materiale Jersey.",
+        "category": "Abbigliamento",
+        "image": "https://m.media-amazon.com/images/I/51Dqkj0xuLL._AC_UX679_.jpg",
+        "count": 30
+    },
+    {
+        "id": 5,
+        "title": "Navigare Maglietta Intima (Pacco da 3) Uomo.",
+        "price": 17.99,
+        "description": "3 Maglie Navigare Cotone 100% Manica Corta art.512 4/M Bianco. Cotone 100%. Quantità per pacco: 3. Lavare in lavatrice. Manica corta. Maglietta intima.",
+        "category": "Abbigliamento",
+        "image": "https://m.media-amazon.com/images/I/81xCCY6Ln-L._AC_UX569_.jpg",
+        "count": 65
+    },
+    {
+        "id": 6,
+        "title": "Nike Dry Fit Academy Pr Dril Trikot Uomo.",
+        "price": 44.99,
+        "description": "Prestazioni morbide e ultraleggere. Leggero, resistente e ad asciugatura rapida. 100% Poliestere. Chiusura: Pull on. Lavare in lavatrice. Stile scollo: Lungo. Manica corta.",
+        "category": "Abbigliamento",
+        "image": "https://m.media-amazon.com/images/I/71Vb-XvOUdL._AC_UX466_.jpg",
+        "count": 5
+    },
+    {
+        "id": 7,
+        "title": "Smilo & Bron.",
+        "price": 16.95,
+        "description": "Maglietta da uomo con motivo Apekind.",
+        "category": "Abbigliamento",
+        "image": "https://m.media-amazon.com/images/I/81eb1TMXkWL._AC_UX342_.jpg",
+        "count": 15
+    },
+    {
+        "id": 8,
+        "title": "CATCH & KEEP Divisa Portiere.",
+        "price": 39.95,
+        "description": "Maglietta Portiere Calcio per Donne, Uomini e Bambini - Imbottitura sui Gomiti - Maglia Portiere Bambino Traspirante con Massima Protezione.",
+        "category": "Abbigliamento",
+        "image": "https://m.media-amazon.com/images/I/81ksjUNrX7L._AC_UX679_.jpg",
+        "count": 15
+    },
+    {
+        "id": 9,
+        "title": "adidas - Sq21 TR Pnt, Pantaloni Sportivi Uomo.",
+        "price": 40,
+        "description": "Tecnologia AEROREADY. Vestibilità slim. 100% Poliestere (riciclaggio). Chiusura: Pull on. Lavabile in lavatrice. Jogger. Aderente. Design moderno.",
+        "category": "Abbigliamento",
+        "image": "https://m.media-amazon.com/images/I/61U1Ry1e8ZL._AC_UX679_.jpg",
+        "count": 2
+    },
+    {
+        "id": 10,
+        "title": "Fortnite Pantaloni Ragazzo.",
+        "price": 20.99,
+        "description": "Tuta Sportiva Casuale Bambino, Pantaloni da Jogging, Pantaloni Tuta da 7 ai 14 Anni.",
+        "category": "Abbigliamento",
+        "image": "https://m.media-amazon.com/images/I/61MzMBZ1O2S._AC_UX679_.jpg",
+        "count": 8
+    },
+    {
+        "id": 11,
+        "title": "J.Sheen Set 40 Pezzi Di Matite Per Schizzi.",
+        "price": 20.99,
+        "description": "Astuccio Con Zip,Professionale, Disegnare,Principianti.",
+        "category": "Cancelleria",
+        "image": "https://m.media-amazon.com/images/I/81PLlqxuogL._AC_SX425_.jpg",
+        "count": 7
+    },
+    {
+        "id": 12,
+        "title": "Gurkkst Set di 48 Glitterate Penne Gel Colorate per Adulti e Bambini da Colorare.",
+        "price": 12.48,
+        "description": "Disegnare e Scrivere (12 Metallico + 12 Glitterato + 12 Neon + 12 Pastello).",
+        "category": "Cancelleria",
+        "image": "https://m.media-amazon.com/images/I/718TXJd4stL._AC_SY450_.jpg",
+        "count": 1
+    },
+    {
+        "id": 13,
+        "title": "Staedtler Mars plastic 526 53 Gomma.",
+        "price": 2.40,
+        "description": "40 x 19 x 13 mm, Confezione da 3.",
+        "category": "Cancelleria",
+        "image": "https://m.media-amazon.com/images/I/7123+7f0xPL._AC_SX425_.jpg",
+        "count": 12
+    },
+    {
+        "id": 14,
+        "title": "Pigna Astuccio.",
+        "price": 20.20,
+        "description": "Pochette in Silicone Azzurro CHIARA FERRAGNI.",
+        "category": "Cancelleria",
+        "image": "https://m.media-amazon.com/images/I/61yErqAkiSL._AC_SX425_.jpg",
+        "count": 24
+    },
+    {
+        "id": 15,
+        "title": "Asge zaino.",
+        "price": 33.99,
+        "description": "zaino scuola elementare bimbo zaini scuola.",
+        "category": "Cancelleria",
+        "image": "https://m.media-amazon.com/images/I/71zVhpYg5BS._AC_SX466_.jpg",
+        "count": 4
+    },
+    {
+        "id": 16,
+        "title": "Echo Dot (3ª generazione).",
+        "price": 49.99,
+        "description": "Altoparlante intelligente con integrazione Alexa - Tessuto antracite.",
+        "category": "Elettronica",
+        "image": "https://m.media-amazon.com/images/I/61u48FEs0rL._AC_SY450_.jpg",
+        "count": 5
+    },
+    {
+        "id": 17,
+        "title": "Hagibis Spazzola per pulizia degli auricolari Bluetooth multifunzione.",
+        "price": 12.99,
+        "description": "Compatibile con AirPods 1/2, compatibile con AirPods Pro, compatibile per AirPods 3.",
+        "category": "Elettronica",
+        "image": "https://m.media-amazon.com/images/I/519W42OP5sL._AC_SY355_.jpg",
+        "count": 51
+    },
+    {
+        "id": 18,
+        "title": "Xiaomi Mi Smart Band 6 Orologio Smart, Schermo AMOLED 1.56.",
+        "price": 44.99,
+        "description": "Tracciamento Sport, Resistente all'Acqua Fino a 5 ATM, Cinturino Antibatterico, Batteria 125 mAh, Versione Italiana, Nero.",
+        "category": "Elettronica",
+        "image": "https://m.media-amazon.com/images/I/61O86KE6pVS._AC_SY450_.jpg",
+        "count": 51
+    },
+    {
+        "id": 19,
+        "title": "Apple AirPods con custodia di ricarica tramite cavo (seconda generazione).",
+        "price": 149,
+        "description": "Taglia unica, comodi da indossare tutto ilgiorno.",
+        "category": "Elettronica",
+        "image": "https://m.media-amazon.com/images/I/71NTi82uBEL._AC_SX466_.jpg",
+        "count": 31
+    },
+    {
+        "id": 20,
+        "title": "Decoder DVB-T2.",
+        "price": 29.99,
+        "description": "HD 1080p SINTONIZZAZIONE AUTOMATICA Digitale terrestre Nuova Generazione HDMI HEVC Main 10 Bit H265 riceve TUTTI i canali gratuiti DOLBY-DIGITAL+ (GX1 (Senza Tasti sul display)).",
+        "category": "Elettronica",
+        "image": "https://m.media-amazon.com/images/I/81IgcyJUmJL._AC_SY450_.jpg",
+        "count": 10
+    },
+    {
+        "id": 21,
+        "title": "LED Caricabatterie Wireless.",
+        "price": 13.19,
+        "description": "10W Rapida Caricatore Senza Fili per Samsung Galaxy S21/S20/S10/Note 10/9/8, IPhone 13/13Mini/13Pro/13Pro Max/12/12 Mini/12 Pro Max/SE/11 Pro Max, AirPods Pro, Xiaomi.",
+        "category": "Elettronica",
+        "image": "https://m.media-amazon.com/images/I/81IgcyJUmJL._AC_SY450_.jpg",
+        "count": 10
+    },
+    {
+        "id": 22,
+        "title": "La mascella di Caino.",
+        "price": 17.10,
+        "description": "Il puzzle letterario più diabolico del mondo.",
+        "category": "Libri",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/618IFUt8P0L._SX321_BO1,204,203,200_.jpg",
+        "count": 7
+    },
+    {
+        "id": 23,
+        "title": "La Russia di Putin.",
+        "price": 13.30,
+        "description": "???",
+        "category": "Libri",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/31RxhfFxU+L._SX318_BO1,204,203,200_.jpg",
+        "count": 32
+    },
+    {
+        "id": 24,
+        "title": "Lo faccio per me.",
+        "price": 15.20,
+        "description": "Essere madri senza il mito del sacrificio",
+        "category": "Libri",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41EcGzLxjdL._SX324_BO1,204,203,200_.jpg",
+        "count": 43
+    },
+    {
+        "id": 25,
+        "title": "Ti voglio bene anche se...",
+        "price": 6.55,
+        "description": "Ediz. a colori",
+        "category": "Libri",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/514PpfqeTmL._SX391_BO1,204,203,200_.jpg",
+        "count": 9
+    },
+    {
+        "id": 26,
+        "title": "Il visconte che mi amava.",
+        "price": 13.77,
+        "description": "Serie Bridgerton (Vol. 2)",
+        "category": "Libri",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41or3FoMz0L._SX324_BO1,204,203,200_.jpg",
+        "count": 15
+    },
+    {
+        "id": 27,
+        "title": "Logitech G29 Driving Force.",
+        "price": 409.90,
+        "description": "Volante da Corsa con Pedali Regolabili, Ritorno di Forza Reale, Comandi Cambio in Acciaio Inossidabile, Volante in Pelle, Spina EU, PS5, PS4, PC, Mac - Nero.",
+        "category": "Gioco",
+        "image": "https://m.media-amazon.com/images/I/61IYYoZ66VL._AC_SY450_.jpg",
+        "count": 2
+    },
+    {
+        "id": 28,
+        "title": "Logitech G332 Cuffie Gaming.",
+        "price": 61.99,
+        "description": "Cablate, Audio Stereo, Driver da 50 mm, Jack Audio 3.5 mm, Microfono Flip-To-Mute, Padiglioni Rotanti, Leggere, PC/Mac/Xbox One/PS4/Nintendo Switch, Nero/Rosso.",
+        "category": "Gioco",
+        "image": "https://m.media-amazon.com/images/I/61QRH3xXoCL._AC_SY450_.jpg",
+        "count": 5
+    },
+    {
+        "id": 29,
+        "title": "Trust Gaming GXT 835 Azor.",
+        "price": 24.99,
+        "description": "Tastiera Gaming, Layout Italiano QWERTY, USB, Anti-ghosting, Tastiera Retroilluminata LED RGB per PC, Computer, Laptop, Mac - Nero.",
+        "category": "Gioco",
+        "image": "https://m.media-amazon.com/images/I/61I-l9Yvk+L._AC_SX450_.jpg",
+        "count": 14
+    },
+    {
+        "id": 30,
+        "title": "Football Manager 2022.",
+        "price": 54.99,
+        "description": "Per PC.",
+        "category": "Gioco",
+        "image": "https://m.media-amazon.com/images/I/81NEL-aV3DL._AC_SY500_.jpg",
+        "count": 40
+    }
+]
